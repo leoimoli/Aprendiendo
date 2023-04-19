@@ -164,6 +164,7 @@
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.txtDni);
             this.Name = "AltaPersonaWF";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AltaPersonaWF";
             this.ResumeLayout(false);
             this.PerformLayout();

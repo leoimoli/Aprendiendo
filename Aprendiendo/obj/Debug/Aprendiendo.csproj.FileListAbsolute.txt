@@ -8,3 +8,17 @@ C:\Users\Usuario\source\repos\Aprendiendo\Aprendiendo\Aprendiendo\obj\Debug\Apre
 C:\Users\Usuario\source\repos\Aprendiendo\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Aprendiendo\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.exe
 C:\Users\Usuario\source\repos\Aprendiendo\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.pdb
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\bin\Debug\Aprendiendo.exe.config
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\bin\Debug\Aprendiendo.exe
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\bin\Debug\Aprendiendo.pdb
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.AltaPersonaWF.resources
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.PersonaFisicasWF.resources
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.PruebaUno.resources
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.Properties.Resources.resources
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.csproj.CopyComplete
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.exe
+C:\Users\Usuario\source\repos\REPOS PROD\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.pdb
